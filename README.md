@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Ko Ikeda（池田 光）
 
 **Software Engineer** — アニメ制作現場を知るエンジニア。  
-Neo4j / GraphRAG / 生成AIで、クリエイターが「創ること」に没入できる世界を作りたい。
-
+Neo4j / GraphRAG / AIを用いて、世界に負けない日本を作りたい。
 ---
 
 ## 🔧 Tech Stack
